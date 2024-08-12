@@ -1,19 +1,5 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-registry.cn-hangzhou.aliyuncs.com/qsyd/qsyd.mysql:latest
-registry.cn-hangzhou.aliyuncs.com/qsyd/qsyd.redis:latest
-registry.cn-hangzhou.aliyuncs.com/qsyd/jnpf.java.admin:3.7
-registry.cn-hangzhou.aliyuncs.com/qsyd/jnpf.java.report:3.7
-registry.cn-hangzhou.aliyuncs.com/qsyd/jnpf.java.file:3.7
-registry.cn-hangzhou.aliyuncs.com/qsyd/jnpf.java.job:3.7
-registry.cn-hangzhou.aliyuncs.com/qsyd/jnpf.web:3.7
-registry.cn-hangzhou.aliyuncs.com/qsyd/jnpf.web.app:3.7
-registry.cn-hangzhou.aliyuncs.com/qsyd/jnpf.web.tenant:3.7
-registry.cn-hangzhou.aliyuncs.com/qsyd/jnpf.java.tenant:3.7
-alpine:latest
-frp/frps
-
+frp
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
