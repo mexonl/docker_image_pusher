@@ -12,6 +12,7 @@ registry.cn-hangzhou.aliyuncs.com/qsyd/jnpf.web:3.7
 registry.cn-hangzhou.aliyuncs.com/qsyd/jnpf.web.app:3.7
 registry.cn-hangzhou.aliyuncs.com/qsyd/jnpf.web.tenant:3.7
 registry.cn-hangzhou.aliyuncs.com/qsyd/jnpf.java.tenant:3.7
+alpine:latest
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
