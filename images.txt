@@ -1,5 +1,5 @@
 nginx
 #支持私库
-nextcloud/all-in-one:latest
+clamav/clamav:stable_base
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
